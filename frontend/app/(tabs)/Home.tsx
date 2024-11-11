@@ -12,7 +12,7 @@ const Home = () => {
           source={{ uri: 'https://placekitten.com/200/200' }} 
           style={styles.avatar}
         />
-        <Text style={styles.userName}>John Doe</Text>
+        <Text style={styles.userName}>Varshini Poojary</Text>
       </View>
       
       {/* Main Features */}
